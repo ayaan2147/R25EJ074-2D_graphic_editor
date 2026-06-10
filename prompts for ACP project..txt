@@ -1,0 +1,22 @@
+#To generate the code(Antigravity)
+Think you are a professional software developer so generate me 
+Problem Statement: Design and implement a menu-driven 2D Graphics Editor in C using a 2D character array as the drawing canvas. The canvas should initially be filled with the character _ (underscore), and graphical objects should be drawn using the character * (asterisk).
+
+Write functions to draw a circle, rectangle, line, and triangle.
+You should be able to
+      add objects to the picture,
+      delete objects from the picture, and
+       modify objects in the picture.
+Use a 2d array of characters to store the picture.
+Write a function to display the picture.
+
+
+#How to create repo and add our file to it and publish it in public(chatGPT).
+
+
+#After pasting my code to GPT i asked to generate by giving : "Analyze it and give me very polished README text so i can directly add it in my repo. And also add my name Shashank R N and First Year Engineering Student in author". 
+
+
+#For understanding the code(chatGPT)
+This is c code now under stand it and explain me by dividing it in to several blocks and also tell me how the links work in hear with proper points and also explain all the files ,function and keys what they do.
+
